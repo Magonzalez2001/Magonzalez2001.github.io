@@ -157,8 +157,7 @@
       <!-- The div below shows an Embedded Scratch Project -->
       <!-- TODO: Update for your Maze Game -->
       <div class="grid">
-        <iframe allowtransparency="true" width="485" height="402" src="//scratch.mit.edu/projects/embed/85526084/?autostart=false" frameborder="0" allowfullscreen></iframe>
-    
+        <iframe allowtransparency="true" width="350" height="300" src="//scratch.mit.edu/projects/embed/90479001/?autostart=false" frameborder="0" allowfullscreen></iframe>
         <p><a href="https://scratch.mit.edu/projects/90479001/" target="_blank">Maze Game</a></p>
       </div>
       
