@@ -1,3 +1,5 @@
+
+
 /* NAVBAR CSS BEGIN */
     .nav li {
       line-height: 40px;
@@ -28,7 +30,7 @@
     }
 
     .navigation li {
-      padding: 10px;
+      padding: 30px 15px;
       list-style: none;
       text-decoration: none;
       float:left;
@@ -62,7 +64,3 @@
     
     
     
-    .navigation li{
-     float:left;   
-    }
-    }
